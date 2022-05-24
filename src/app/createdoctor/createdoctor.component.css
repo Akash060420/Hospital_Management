@@ -1,0 +1,13 @@
+.bg{
+    background-color: bisque;
+    height: 600px;
+}
+.container{
+    height: auto;
+    background-color: #a9c822;
+}
+/* .contact-image{
+    width:auto;
+    height: 100px;
+    border-radius: 50px;
+} */
